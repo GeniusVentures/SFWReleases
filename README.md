@@ -5,8 +5,8 @@
 * **Windows** (`SpaceForceWarWindows.zip`)
 * **Linux (x86\_64)** (`SpaceForceWarLinux.tar.gz`)
 * **Android** (`SpaceForceWar.apk`)
-* **macOS** (coming soon)
-* **iOS** (via TestFlight in the future)
+* **macOS** (`Space.Force.War.pkg`)
+* **iOS** (distributed via TestFlight, contact us for access)
 
 ---
 
@@ -69,13 +69,18 @@ Our Linux build is tested on **Ubuntu 22 and newer** and should work on most mod
 
 ## macOS
 
-The macOS version of Space Force War is coming soon.
+1. Download `Space.Force.War.pkg` from the GitHub release page.
+2. Double-click `Space.Force.War.pkg` to start the installer.
+3. Follow the prompts to complete installation.
+4. Once installed, you can launch **Space Force War** from your Applications folder.
 
 ---
 
 ## iOS
 
-The iOS version of Space Force War will be distributed via **TestFlight** in the future. Contact us to request TestFlight access when available.
+Space Force War is distributed via **TestFlight** for iOS.
+
+Contact us to request TestFlight access, and we will send you an invitation link to join the Space Force War beta.
 
 ---
 
